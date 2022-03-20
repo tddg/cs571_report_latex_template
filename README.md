@@ -1,0 +1,1 @@
+# cs571_report_latex_template
